@@ -1,6 +1,6 @@
-## Hello, I have developed a weather application where the user can enter the city she wants from the search button and learn the weather of the relevant city and more in detail.
+### * Hello, I have developed a weather application where the user can enter the city she wants from the search button and learn the weather of the relevant city and more in detail.
 
-### USED TECHNOLOGİES
+## Used Technologies
 
 <p align="center">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
