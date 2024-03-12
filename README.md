@@ -6,8 +6,6 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40" widht="40"/>
   </a>
-</p>
-<p align="center">
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="kotlin" height="40" widht="40"/>
   </a>
@@ -19,7 +17,7 @@
   <td>MVVM</td>
   <td>Retrofit</td>
   <td>Jetpack Compose</td>
-  <td>Coroutine</td>
+  <td>Coroutines</td>
 </tr>
 </table>
 
